@@ -1,7 +1,7 @@
 Lab 07 - Conveying the right message through visualisation
 ================
-Insert your name here
-Insert date here
+Tiffani J. Hill
+February, 26, 2026
 
 ### Load packages and data
 
